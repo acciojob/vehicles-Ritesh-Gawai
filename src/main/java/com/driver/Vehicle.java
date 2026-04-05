@@ -28,7 +28,6 @@ public class Vehicle {
         System.out.println("stop method called - The vehicle is stopped");
     }
 
-    // Getter methods (IMPORTANT for F1 class)
     public int getCurrentSpeed() {
         return currentSpeed;
     }
